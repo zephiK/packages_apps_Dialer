@@ -47,6 +47,12 @@ public class DialerSettingsActivity extends PreferenceActivity {
         generalSettingsHeader.fragment = GeneralSettingsFragment.class.getName();
         target.add(generalSettingsHeader);
 
+        final Header lookupSettingsHeader = new Header();
+        lookupSettingsHeader.titleRes = R.string.lookup_settings_label;
+        lookupSettingsHeader.summaryRes = R.string.lookup_settings_description;
+        lookupSettingsHeader.fragment = LookupSettingsFragment.class.getName();
+        target.add(lookupSettingsHeader);
+
         // Only show call setting menus if the current user is the primary/owner user.
         if (isPrimaryUser()) {
             final TelephonyManager telephonyManager =
