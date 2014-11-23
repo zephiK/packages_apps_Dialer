@@ -722,4 +722,5 @@
 
     <!-- Label for the phone account settings [CHAR LIMIT=30] -->
     <string name="phone_account_settings_label">Calling accounts</string>
+
 </resources>
