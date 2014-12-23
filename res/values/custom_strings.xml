@@ -36,4 +36,8 @@
     <string name="cyngn_reverse_lookup_provider_package" translatable="false">com.cyngn.chineselocationlookup</string>
     <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
     <string name="cyngn_reverse_lookup_provider_value" translatable="false">CyngnChinese</string>
+
+    <!-- Detailed caller information -->
+    <string name="detailed_incall_info_title">Detailed incall information</string>
+    <string name="detailed_incall_info_summary">Display additional information (organization, position, city and nickname) on full incall screen.</string>
 </resources>
