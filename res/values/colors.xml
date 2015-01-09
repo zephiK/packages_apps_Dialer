@@ -22,15 +22,11 @@
     <color name="dialer_red_highlight_color">#ff1744</color>
     <color name="dialer_green_highlight_color">#00c853</color>
 
-<<<<<<< HEAD
     <!-- Color for the setting text. -->
     <color name="setting_primary_color">@color/dialtacts_primary_text_color</color>
     <!-- Color for the setting description text. -->
     <color name="setting_secondary_color">@color/dialtacts_secondary_text_color</color>
     <color name="setting_background_color">#ffffff</color>
-=======
-    <color name="setting_background_color">@*android:color/material_blue_grey</color>
->>>>>>> 790d95c... Contacts/Dialer/InCallUI: Dark theme, (4/7):
 
     <!-- Color of the text describing an unconsumed missed call. -->
     <color name="call_log_missed_call_highlight_color">@color/dialer_red_highlight_color</color>
