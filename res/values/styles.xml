@@ -148,7 +148,7 @@
     <style name="DialtactsActionBarTitleText"
            parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
       <!-- exposed textcolor for theming  -->
-        <item name="android:textColor">@color/exposed_primary_text_dark</item>
+	<item name="android:colorControlActivated">@color/exposed_switches</item>
     </style>
 
     <!-- Text style for tabs. -->

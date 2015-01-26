@@ -98,7 +98,6 @@
 
     <color name="floating_action_button_touch_tint">#80ffffff</color>
     
-    
     <!-- Exposed resources for theming -->
     <color name="exposed_bg_dark">#ffffffff</color>
     <color name="exposed_bg_light">#ff000000</color>
@@ -114,11 +113,5 @@
     <color name="exposed_floating_action_button_solid">#ffffffff</color>
     <color name="exposed_recents_list_footer_bg">#ffffffff</color>
     <color name="exposed_dialpad_fragment">#00000000</color>
-    
-    
-    
-    
-    
-    
-
+    <color name="exposed_switches">#0288d1</color>
 </resources>
