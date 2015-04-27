@@ -15,6 +15,28 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Forward lookup -->
+    <string name="nearby_places">Lieux à proximité</string>
+    <string name="people">Personnes</string>
+
+    <!-- Number lookup -->
+    <string name="lookup_settings_label">Rechercher un numéro de téléphone</string>
+    <string name="lookup_settings_description">Recherche les numéros de téléphone inconnus</string>
+    <string name="enable_forward_lookup_title">Recherche directe</string>
+    <string name="enable_forward_lookup_summary">Afficher les lieux à proximité lors de la recherche dans le composeur</string>
+    <string name="enable_people_lookup_title">Recherche de personnes</string>
+    <string name="enable_people_lookup_summary">Voir les résultats en ligne pour les personnes lors de la recherche dans le composeur</string>
+    <string name="enable_reverse_lookup_title">Recherche inversée</string>
+    <string name="enable_reverse_lookup_summary">Rechercher des informations sur la personne ou le lieu pour les numéros inconnus sur les appels entrants</string>
+    <string name="forward_lookup_provider_title">Fournisseur de recherche téléphone</string>
+    <string name="people_lookup_provider_title">Fournisseur de recherche personne</string>
+    <string name="reverse_lookup_provider_title">Fournisseur de recherche inversé</string>
+
+    <!-- Chinese Reverse Lookup Provider -->
+    <string name="cyngn_reverse_lookup_provider_package" translatable="false">com.cyngn.chineselocationlookup</string>
+    <string name="cyngn_reverse_lookup_provider_name">Cyngn Chinese (CN)</string>
+    <string name="cyngn_reverse_lookup_provider_value" translatable="false">CyngnChinese</string>
+
     <!-- In call vibration -->
     <string name="incall_vibration_category_title">Vibrations en appel</string>
     <string name="incall_vibrate_outgoing_title">Vibrer en cas de réponse</string>
