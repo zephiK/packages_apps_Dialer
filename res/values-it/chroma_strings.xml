@@ -38,7 +38,7 @@
     <!-- In call vibration -->
     <string name="incall_vibration_category_title">Vibrazione in chiamata</string>
     <string name="incall_vibrate_outgoing_title">Vibrazione alla risposta</string>
-    <string name="incall_vibrate_hangup_title">Vibrazione alla tua riposta</string>
+    <string name="incall_vibrate_hangup_title">Vibrazione alla chiusura</string>
     <string name="incall_vibrate_45_title">Vibrazione ad ogni minuto</string>
     <string name="incall_vibrate_45_summary">Vibrazione al 45esimo secondo di ogni minuto nelle chiamate effettuate</string> 
 </resources>
