@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013-2014 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Forward lookup -->
+    <string name="nearby_places">Luoghi vicini</string>
+    <string name="people">Persone</string>
+
+    <!-- Number lookup -->
+    <string name="lookup_settings_label">Ricerca numeri telefono</string>
+    <string name="lookup_settings_description">Ricerca per numeri sconosciuti</string>
+    <string name="enable_forward_lookup_title">Ricerca luoghi</string>
+    <string name="enable_forward_lookup_summary">Mostra luoghi vicini durante la ricerca</string>
+    <string name="enable_people_lookup_title">Ricerca persone</string>
+    <string name="enable_people_lookup_summary">Mostra risultati di persone online durante la ricerca</string>
+    <string name="enable_reverse_lookup_title">Ricerca inversa</string>
+    <string name="enable_reverse_lookup_summary">Cerca informazioni sui luoghi o sulle persone per i numeri sconosciuti che ti chiamano</string>
+    <string name="forward_lookup_provider_title">Provider ricerca luoghi</string>
+    <string name="people_lookup_provider_title">Provider ricerca persone</string>
+    <string name="reverse_lookup_provider_title">Provider ricerca iversa</string>
+
+    <!-- Chinese Reverse Lookup Provider -->
+    <string name="cyngn_reverse_lookup_provider_package" translatable="false">com.cyngn.chineselocationlookup</string>
+    <string name="cyngn_reverse_lookup_provider_name">Китайский Cyngn (CN)</string>
+    <string name="cyngn_reverse_lookup_provider_value" translatable="false">CyngnChinese</string>
+  
+    <!-- In call vibration -->
+    <string name="incall_vibration_category_title">Vibrazione in chiamata</string>
+    <string name="incall_vibrate_outgoing_title">Vibrazione alla risposta</string>
+    <string name="incall_vibrate_hangup_title">Vibrazione alla chiusura</string>
+    <string name="incall_vibrate_45_title">Vibrazione ad ogni minuto</string>
+    <string name="incall_vibrate_45_summary">Vibrazione al 45esimo secondo di ogni minuto nelle chiamate effettuate</string> 
+</resources>
