@@ -24,23 +24,21 @@
     <string name="lookup_settings_description">Поиск неизвестных телефонных номеров</string>
     <string name="enable_forward_lookup_title">Прямой поиск</string>
     <string name="enable_forward_lookup_summary">Показывать ближайшие организации при поиске в номеронабирателе</string>
-    <string name="enable_people_lookup_title">Поиск по людям</string>
-    <string name="enable_people_lookup_summary">Показывать результаты из сети для контактов при поиске</string>
+    <string name="enable_people_lookup_title">Поиск контактов</string>
+    <string name="enable_people_lookup_summary">Показывать результаты из сети при поиске людей через номеронабиратель</string>
     <string name="enable_reverse_lookup_title">Обратный поиск</string>
-    <string name="enable_reverse_lookup_summary">Искать информацию о человеке/месте для незнакомых входящих номеров</string>
-    <string name="forward_lookup_provider_title">Поставщик прямого поиска</string>
-    <string name="people_lookup_provider_title">Поставщик поиска данных о людях</string>
-    <string name="reverse_lookup_provider_title">Поставщик обратного просмотра</string>
+    <string name="enable_reverse_lookup_summary">Поиск информации о человеке или месте для входящих с неизвестных номеров</string>
+    <string name="forward_lookup_provider_title">Провайдер прямого поиска</string>
+    <string name="people_lookup_provider_title">Провайдер поиска данных о людях</string>
+    <string name="reverse_lookup_provider_title">Провайдер обратного поиска</string>
 
     <!-- Chinese Reverse Lookup Provider -->
-    <string name="cyngn_reverse_lookup_provider_package" translatable="false">com.cyngn.chineselocationlookup</string>
     <string name="cyngn_reverse_lookup_provider_name">Китайский Cyngn (CN)</string>
-    <string name="cyngn_reverse_lookup_provider_value" translatable="false">CyngnChinese</string>
 
     <!-- In call vibration -->
-    <string name="incall_vibration_category_title">Вибрация при вызове</string>
+    <string name="incall_vibration_category_title">Вибрация во время звонка</string>
     <string name="incall_vibrate_outgoing_title">Вибрация при ответе</string>
-    <string name="incall_vibrate_hangup_title">Вибрация при сбросе</string>
+    <string name="incall_vibrate_hangup_title">Вибрировать при отбое</string>
     <string name="incall_vibrate_45_title">Вибрировать каждую минуту</string>
-    <string name="incall_vibrate_45_summary">Вибрирует в 45 секунд во вторых отметках каждой минуты во время исходящих звонков</string>   
+    <string name="incall_vibrate_45_summary">Вибрировать на 45-ой секунде каждой минуты во время исходящих вызовов</string>   
 </resources>
