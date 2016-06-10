@@ -109,7 +109,7 @@ public class LookupSettingsFragment extends PreferenceFragment
         mEnableForwardLookup.setChecked(Settings.System.getInt(cr,
                 Settings.System.ENABLE_FORWARD_LOOKUP, 1) != 0);
         mEnablePeopleLookup.setChecked(Settings.System.getInt(cr,
-                Settings.System.ENABLE_PEOPLE_LOOKUP, 1) != 0);
+                Settings.System.ENABLE_PEOPLE_LOOKUP, 0) != 0);
         mEnableReverseLookup.setChecked(Settings.System.getInt(cr,
                 Settings.System.ENABLE_REVERSE_LOOKUP, 1) != 0);
     }
